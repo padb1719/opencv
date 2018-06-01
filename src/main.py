@@ -27,6 +27,7 @@ cv2.imshow('lion_bg', lion_bg)
 cv2.imshow('savana_bg', savana_bg)
 cv2.imshow('final', final)
 
+cv2.imwrite('result.jpg', final)
 
 
 def getcoord(event,x,y,flags,param):
