@@ -3,8 +3,10 @@ A simple chroma key project . Replace green background on lion.png image with sa
 
 ## lion.jpg
 <img src="src/lion.jpg" />
+
 ## savana.jpg
 <img src="src/savana.jpg" />
+
 ## result.jpg
 <img src="src/result.jpg" />
 
